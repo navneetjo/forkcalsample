@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Calculator Function",
   "main": "cal.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
   "author": "Madhavi",
   "license": "ISC",
   "devDependencies": {
@@ -15,6 +13,7 @@
   },
   "dependencies": {
     "chai": "^3.5.0",
+      "assert":"latest",
     "grunt-mocha": "^1.0.2",
     "grunt-mocha-test": "^0.12.7",
       "grunt":"latest"
